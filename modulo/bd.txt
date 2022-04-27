@@ -1,0 +1,7 @@
+create table crud_prueba1.empleado(
+	codigo int primary key AUTO_INCREMENT,
+    nombre varchar(20),
+    edad int,
+    signo varchar(20)
+
+)

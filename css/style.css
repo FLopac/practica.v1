@@ -1,0 +1,47 @@
+:root {
+    --dark: #16191c;
+    --dark: #1e2126;
+    --light: #ffffff;
+}
+
+body {
+    font-family: 'Spartan', sans-serif;
+    font-weight: 300;
+    color: var(--light);
+    
+}
+
+.bg-dark {
+    background-color: var(--dark) !important;
+}
+.bg-dark-x{
+    background-color: rgba(27,29,33,255);
+    color: white;
+}
+
+.form-control, .btn {
+    min-height: 3.125rem;
+    line-height: initial;
+}
+.imagen{
+    background-image: url('../images/fotolg1.jpg');
+    background-size: cover;
+    background-position: center;
+    box-shadow: 2px 2px 5px #999;
+}
+.imagen2{
+    background-image: url('../images/fotolg2.jpg');
+    background-size: cover;
+    background-position: center;
+    box-shadow: 2px 2px 5px #999;
+}
+
+/*
+.img_2{
+    background-image: url('../mezcla/images/fotolg2.jpg');
+    background-size: cover;
+    background-position: center;
+    box-shadow: 2px 2px 5px #999;
+}*/
+
+
