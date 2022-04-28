@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="es">
   <head>
-    <title class="text-light bg-dark" >Crud php y mysql b5</title>
+    <title class="text-light bg-dark" >RemuneWeb</title>
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
