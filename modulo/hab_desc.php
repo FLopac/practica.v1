@@ -36,22 +36,10 @@
       <div>
         <ul class="nav nav-tabs mt-3 mb-3">
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="./index.php">Empleados</a>
+            <a class="nav-link active" aria-current="page" href="./index.php">Inicio</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="../modulo/registProceso.php">Agregar Empleado</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="./index.php">Haberes</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="./index.php">Descuentos</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="./index.php">Liquidaciones</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="./index.php">Libros</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="../model/salir.php">Cerrar Sesion</a>
@@ -124,10 +112,6 @@
         <div class="card-header ">
           Lista de empleados
         </div>
-        <div class='d-grid'>
-          <a href="#" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Primary link</a>
-        </div>
-        
         <div class="p-3">
           <table class="table table-dark table-sm align-middle">
           <thead>
@@ -210,5 +194,3 @@
 </div>
 
 <?php include 'template/footer.php'?>
-
-   
