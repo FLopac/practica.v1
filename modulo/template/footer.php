@@ -1,7 +1,7 @@
 <footer class="container-fluid bg-dark fixed-bottom">
       <div>
         <div class="col-md text-light text-center py-3">
-          Desarrollado por Grupo 4 APK Distribuida
+          Desarrollado por Felipe Lopez
         </div>
       </div>
     </footer>
